@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CodefestTest</string>
+    <string name="sample_product_name">SAMPLE PRODUCT NAME</string>
+    <string name="all_available_products">ALL AVAILABLE PRODUCTS:</string>
+</resources>
